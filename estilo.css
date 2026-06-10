@@ -2,3 +2,6 @@
 .pag1{
 background-image:url(./imagens/download.jpeg);
 background-size: cover;}
+
+body{background-color:white;
+color: black;}
