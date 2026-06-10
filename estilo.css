@@ -5,7 +5,7 @@
 
 
 
-.textoeimg{display: flex;}
+.textoeimg{display:block;}
 .pag1{
 background-image:url(./imagens/download.jpeg);
 background-size: cover;}
