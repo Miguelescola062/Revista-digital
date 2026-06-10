@@ -1,3 +1,10 @@
+.textos2{
+    display: flex;
+}
+
+
+
+
 .textoeimg{display: flex;}
 .pag1{
 background-image:url(./imagens/download.jpeg);
