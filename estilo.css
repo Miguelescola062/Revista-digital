@@ -21,12 +21,12 @@ background-size: cover;}
 body{background-color:white;
 color: black;}
 
-.pag2{
+.pag2{height: 450px;
     align-items: center;
     justify-content: center;
 }
 
-.pag3{
+.pag3{height: 450px;
     align-items: center;
     justify-content: center;
     background-color: black;
@@ -34,11 +34,12 @@ display: flex;}
 
 .txtpag3{color:white}
 
-.pag4{
+.pag4{height: 450px;
     align-items: center;
     justify-content: center;
     display: flex;}
 
-.pag5{align-items: center;
+.pag5{height: 450px;
+    align-items: center;
     justify-content: center;
     display: flex;}
