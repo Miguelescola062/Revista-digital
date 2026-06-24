@@ -7,17 +7,32 @@
 
 .textoeimg{display:block;}
 .pag1{
+    align-items: center;
+    justify-content: center;
 background-image:url(./imagens/download.jpeg);
 background-size: cover;}
 
 body{background-color:white;
 color: black;}
 
-.pag3{background-color: black;
+.pag2{
+    align-items: center;
+    justify-content: center;
+}
+
+.pag3{
+    align-items: center;
+    justify-content: center;
+    background-color: black;
 display: flex;}
 
 .txtpag3{color:white}
 
-.pag4{display: flex;}
+.pag4{
+    align-items: center;
+    justify-content: center;
+    display: flex;}
 
-.pag5{display: flex;}
+.pag5{align-items: center;
+    justify-content: center;
+    display: flex;}
