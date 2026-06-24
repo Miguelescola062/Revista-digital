@@ -15,7 +15,8 @@ height: 450px;
 background-image:url(./imagens/download.jpeg);
 background-size: cover;}
 
-.txtprincipal{padding-top: 250px;}
+.txtprincipal{color: white;
+    padding-top: 250px;}
 
 body{background-color:white;
 color: black;}
