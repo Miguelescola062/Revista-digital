@@ -42,4 +42,6 @@ display: flex;}
 .pag5{height: 450px;
     align-items: center;
     justify-content: center;
-    display: flex;}
+    display: flex;
+    background-color: #EAECF0;
+}
