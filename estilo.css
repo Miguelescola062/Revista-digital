@@ -47,7 +47,9 @@ display: flex;}
     display: flex;
     background-color: #EAECF0;}
 
-    .bloco1{
-        width: 50%;
-    }
-
+.bloco1{width: 50%;}
+.bloco2{width: 50%;}
+.bloco1pag4{width: 50%;}
+.bloco2pag4{width: 50%;}
+.bloco1pag5{width: 50%;}
+.bloco1pag5{width: 50%;}
